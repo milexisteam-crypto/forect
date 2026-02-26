@@ -1,0 +1,1 @@
+Forect is a lightweight, modern runtime for desktop applications based on HTML, CSS, and JavaScript. It combines WebView2 with a native backend and an extended API, offering an experience similar to Electron, but with a smaller size, better performance, and full control over native integration.
