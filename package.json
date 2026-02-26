@@ -1,0 +1,22 @@
+{
+  "name": "forectjs",
+  "version": "0.1.0-PRE.2",
+  "description": "Forect is a lightweight, modern runtime for desktop applications based on HTML, CSS, and JavaScript. It combines WebView2 with a native backend and an extended API, offering an experience similar to Electron, but with a smaller size, better performance, and full control over native integration.",
+  "keywords": [
+    "forect",
+    "forectjs"
+  ],
+  "homepage": "https://github.com/milexisteam-crypto/forect#readme",
+  "bugs": {
+    "url": "https://github.com/milexisteam-crypto/forect/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milexisteam-crypto/forect.git"
+  },
+  "license": "LGPL-3.0",
+  "author": "milexinteam",
+  "type": "module",
+  "main": "main.js"
+
+}
